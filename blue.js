@@ -59,7 +59,7 @@ client.on("guildCreate", blue => { // Developer by BluePandora
 
   client.on("ready", () => {
     setInterval(() => {
-     let blue = client.channels.cache.get("") // j4j channel id of the server
+     let blue = client.channels.cache.get("1086002264499572808") // j4j channel id of the server
 
 
      blue.send("J4J dm me ")
@@ -70,7 +70,7 @@ client.on("guildCreate", blue => { // Developer by BluePandora
 
 client.on("ready", () => {
   setInterval(() => {
-   let blue = client.channels.cache.get("") // j4j channel id of the server
+   let blue = client.channels.cache.get("1086002264499572808") // j4j channel id of the server
 
 
    blue.send("J4J dm me")
@@ -81,5 +81,5 @@ client.on("ready", () => {
 
 
 
-client.login("TOKEN") // Submit your account's token here
+client.login("NjE4NDkwNzg2NTg1MTE2Njgy") // Submit your account's token here
 // Developer by BluePandora
